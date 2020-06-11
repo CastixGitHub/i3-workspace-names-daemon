@@ -1,4 +1,4 @@
-![Test Suite](https://github.com/cboddy/i3-workspace-names-daemon/workflows/Python%20application/badge.svg)
+![Test Suite](https://github.com/CastixGitHub/i3-workspace-names-daemon/workflows/Python%20application/badge.svg)
 
 # i3-workspace-names-daemon
 
